@@ -1,0 +1,44 @@
+h1 {
+    color: red;
+}
+
+h2 {
+    color: cornflowerblue;
+}
+
+/* couleur de texte */
+.bleu {
+    color: blue;
+}
+
+.rose {
+    color: pink;
+}
+
+/* texte */
+h3 {
+    font-size: 50px;
+}
+
+p {
+    font-size: 19px;
+    color: blue;
+}
+
+.bg-red-vif{
+    background-color: #e51e35;
+}
+.bg-rougepale{
+    background-color: #e51e35;
+}
+.pink{
+    background-color: #FFD7D7;
+}
+
+li{
+    font-weight: 600;
+}
+
+.bold{
+    font-weight: 600;
+}
